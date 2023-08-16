@@ -206,12 +206,12 @@ body {
 */
 
 .footer-container {
-  color: var(--cloud, #f4f4fd);
+  /* color: var(--cloud, #f4f4fd);
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  letter-spacing: 0.32px;
+  letter-spacing: 0.32px; */
   background-color: var(--navyblue, #2e2f42);
   padding: 100px 0;
 }
