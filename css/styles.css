@@ -235,7 +235,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.32px;
-  list-style: none;
+  /* list-style: none; */
   color: var(--cloud);
   max-width: 264px;
 }
@@ -261,10 +261,10 @@ body {
   margin-right: 120px;
 } */
 
-.footer-box {
+/* .footer-box {
   display: flex;
   align-items: baseline;
-}
+} */
 
 /* ?.social-media-title {
   font-size: 16px;
